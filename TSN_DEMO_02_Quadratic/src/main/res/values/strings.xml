@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"TSN_DEMO_02_Quadratic"</string>
+    <string name="title">Решение квадратного уравнения:</string>
+    <string name="a">a=</string>
+    <string name="b">b=</string>
+    <string name="x">x=</string>
+    <string name="button">РЕШИТЬ</string>
+    <string name="answer">Ответ:</string>
+    <string name="y">y=</string>
+</resources>
